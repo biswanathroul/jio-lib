@@ -1,0 +1,98 @@
+body{
+    font-family: Urbanist;
+    background: #fef7e0;
+}
+/* ####################Login-forget-password page css starts########### */
+.loginformbg {
+    background: #fff;
+    width: 400px;
+    margin: 100px 0px 0px 0px;
+    padding: 50px;
+    border-radius: 10px;
+    border: 1px solid #dadce0;
+}
+.loginformline01 {
+    margin-bottom: 20px;
+}
+.loginformtext01 {
+    font-weight: 600;
+}
+.loginformbox01 {
+    width: 100%;
+    border-color:#cc0101;
+    border-radius: 10px;
+    padding: 5px 0px 5px 10px;
+}
+
+.loginformtext02 {
+    font-size: 14px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0px 10px 10px 174px;
+}
+
+.loginformbtn01 {
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+    background: #cc0101;
+    border-color: #cc0101;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.footercopyrighttext{
+    text-align: center;
+    margin: 50px;
+}
+
+/* ####################Login-forget-password page css ends########### */
+
+.searchbg{
+    background: #fff;
+    width: 100%;
+    margin: 100px 0px 0px 0px;
+    padding: 50px;
+    border-radius: 10px;
+    border: 1px solid #dadce0;
+}
+
+.searchbgtext01 {
+    text-align: center;
+    margin-top: 50px;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 31px;
+}
+.loginformline02btn{
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+    background: #cc0101;
+    border-color: #cc0101;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.droupdown-cont div {
+    padding: 6px 11px;
+    
+}
+.droupdown-cont{
+    border-radius: 12px;
+}
+
+.loginformbox02 {
+    width: 90%;
+    border-color: #cc0101;
+    border-radius: 10px;
+    padding: 5px 0px 5px 10px;
+}
+.bg-primary {
+    background: #cc0101 !important;
+}
+
+
+.srch-button{
+    border: 2px solid red;
+    outline: 0;
+}
